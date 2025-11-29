@@ -21,6 +21,9 @@ Unlike traditional instructional 8-bit CPUs, this architecture overcomes convent
 
 **Global Rarity:** This is one of the few projects of its kind—a full-stack engineering practice from foundational logic gates to a complete computer system—completed **independently** by a **12-year-old** with **no external mentorship**, relying solely on 1.5 years of self-study and executed during **4 weeks of after-school** time.
 
+<img width="2719" height="773" alt="YHC" src="https://github.com/user-attachments/assets/1353ea63-d480-4b93-aba4-b1e719f79fc7" />
+Figure: Fibonacci & 5! = 120 ◎ Nov. 24, 2025
+
 ---
 
 ##  Turing Completeness Verification & Demos
